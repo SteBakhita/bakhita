@@ -11,12 +11,6 @@ project-date: April 2014
 client: Start Bootstrap
 category: Sanctuaire de Lourdes
 site: https://www.lourdes-france.com/
-description: Lors de la troisième apparition, le 18 février, la Vierge parle pour la première fois  « Ce que j’ai à vous dire, ce n’est pas nécessaire de le mettre par écrit ». Cela veut dire que Marie veut entrer avec Bernadette dans une relation qui est de l’ordre de l’amour, qui se situe au niveau du cœur. Bernadette est d’emblée invitée à ouvrir les profondeurs de son cœur à ce message d’Amour.
-
-A la deuxième parole de la Vierge  « Voulez-vous me faire la grâce de venir ici pendant quinze jours ? », Bernadette est bouleversée. C’est la première fois qu’on lui dit « vous ». Bernadette, se sentant ainsi respectée et aimée, fait l’expérience d’être elle- même une personne. Nous sommes tous dignes aux yeux de Dieu. Parce que chacun est aimé par Dieu.
-
-Troisième parole de la Vierge  « Je ne vous promets pas de vous rendre heureuse en ce monde, mais dans l’autre ». Quand Jésus, dans l’Évangile, nous invite à découvrir le Royaume des cieux, il nous invite à découvrir, dans le monde tel qu’il est, un « autre monde ». Là où il y a l’Amour, Dieu est présent. La Vierge Marie transmet à Bernadette la certitude d’une terre promise qui ne pourra être atteinte que par delà la mort."@source site officiel
-
- 
+description: Lors de la troisième apparition, le 18 février, la Vierge parle pour la première fois  « Ce que j’ai à vous dire, ce n’est pas nécessaire de le mettre par écrit ». Cela veut dire que Marie veut entrer avec Bernadette dans une relation qui est de l’ordre de l’amour, qui se situe au niveau du cœur. Bernadette est d’emblée invitée à ouvrir les profondeurs de son cœur à ce message d’Amour. A la deuxième parole de la Vierge  « Voulez-vous me faire la grâce de venir ici pendant quinze jours ? », Bernadette est bouleversée. C’est la première fois qu’on lui dit « vous ». Bernadette, se sentant ainsi respectée et aimée, fait l’expérience d’être elle- même une personne. Nous sommes tous dignes aux yeux de Dieu. Parce que chacun est aimé par Dieu. Troisième parole de la Vierge  « Je ne vous promets pas de vous rendre heureuse en ce monde, mais dans l’autre ». Quand Jésus, dans l’Évangile, nous invite à découvrir le Royaume des cieux, il nous invite à découvrir, dans le monde tel qu’il est, un « autre monde ». Là où il y a l’Amour, Dieu est présent. La Vierge Marie transmet à Bernadette la certitude d’une terre promise qui ne pourra être atteinte que par delà la mort."@source site officiel
 
 ---

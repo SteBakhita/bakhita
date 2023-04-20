@@ -11,11 +11,5 @@ project-date: April 2014
 client: Start Bootstrap
 category: Sanctuaire Notre Dame de Cotignac
 site: https://nd-de-graces.com/
-description: En France, au cœur de la Provence, dans le Diocèse de Fréjus-Toulon, la Sainte Famille a choisi d’apparaître à Cotignac, lieu caché et verdoyant.
-Ici, depuis 500 ans, les pèlerins, en particulier les familles, sont accueillis dans un climat priant, simple et fraternel, aux Sanctuaires de Notre-Dame de Grâces et de Saint Joseph du Bessillon.
-
-Ils viennent en procession retrouver un souffle nouveau en recevant des grâces, sources de joie et de fécondité.
- Le message
-« Je suis la Vierge Marie. Allez dire au clergé et aux Consuls de Cotignac de me bâtir ici même une église, sous le vocable de Notre-Dame de Grâces et qu’on y vienne en procession pour recevoir les dons que je veux y répandre. » @source site officiel
-
+description: En France, au cœur de la Provence, dans le Diocèse de Fréjus-Toulon, la Sainte Famille a choisi d’apparaître à Cotignac, lieu caché et verdoyant. Ici, depuis 500 ans, les pèlerins, en particulier les familles, sont accueillis dans un climat priant, simple et fraternel, aux Sanctuaires de Notre-Dame de Grâces et de Saint Joseph du Bessillon. Ils viennent en procession retrouver un souffle nouveau en recevant des grâces, sources de joie et de fécondité.  Le message  « Je suis la Vierge Marie. Allez dire au clergé et aux Consuls de Cotignac de me bâtir ici même une église, sous le vocable de Notre-Dame de Grâces et qu’on y vienne en procession pour recevoir les dons que je veux y répandre. » @source site officiel
 ---

@@ -11,6 +11,13 @@ project-date: April 2023
 client: Start Bootstrap
 category: Sanctuaire paray le monial
 site: https://www.sacrecoeur-paray.org/
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: "En 971, le Comte Lambert demande à Saint Mayeul d’implanter un monastère. Édifice majeur de Paray-le-Monial, cette église romane, restaurée au XIXème siècle, est un fleuron de l’art roman bourguignon, édifié pour la Gloire et la louange de Dieu. Dès l’extérieur, la façade arbore une remarquable simplicité. Le narthex et la tour de droite datent de la première église. Le chevet présente un harmonieux étagement d’arrondis. Le cercle est un symbole céleste ; il marque l’espace sacré des édifices religieux,en contraste avec les parties angulaires, symboles d’unification.
+
+L’édifice s’élance sur une hauteur de 22 m, 25 m à la croisée du transept, pour une longueur de 63,5 m. Il conjugue partout le chiffre 3 : nefs composées de 3 travées sur-plombées de 3 arcatures, puis de 3 fenêtres ; le choeur lui-même compte 3 absidioles…
+
+La fresque du chœur date du XIVème et ne fut découverte qu’en 1935 ; l’abside sphérique symbolise le ciel où trône le Roi de la Création : le Christ en Gloire bénissant.
+
+Fort éprouvé par la peste noire de 1346-1348, puis par la guerre de Cent ans, et enfin par les guerres de religions, le prieuré de Paray-le-Monial n’est plus que l’ombre de lui-même lorsque, le 20 juin 1671, Marguerite Alacoque entre au monastère de la Visitation Sainte Marie. 
+La Visitation de Paray-le-Monial, fondée en 1626 sur la requête des Pères Jésuites, occupe son emplacement actuel depuis 1632. Dissoute à la Révolution, la communauté revint en 1823 et dut rénover la chapelle laissée en fort mauvais état. Ayant accepté de se laisser guider d’une manière radicale par le Christ, s’offrant à lui totalement comme on s’offre à celui qu’on aime, Marguerite-Marie a permis à Dieu de la conduire de façon exceptionnelle. Vivant dans une grande familiarité de dialogues intérieurs avec Jésus, Celui-ci lui apparaît à plusieurs reprises pour lui confier sa mission." @source site officiel
 
 ---
